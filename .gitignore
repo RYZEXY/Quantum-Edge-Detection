@@ -1,0 +1,6 @@
+*.png
+*.txt
+*.jpg
+/classical_edges
+/images
+/outputs
